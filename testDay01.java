@@ -3,6 +3,7 @@ package com.jiweikeji.test;
 public class testDay01 {
     public static void main(String[] args) {
         System.out.println("积微科技测试第一天,测试成功.");
+        //再来测试第二遍。
 
         int area = getArea(50, 10);
         System.out.println("我算出来的面积是:"+area);
